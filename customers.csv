@@ -1,0 +1,101 @@
+Customer_ID,Name,City,Contact_Number,Email,Gender,Address
+C001,Aisha Bello,Edo,2348531349391,aisha bello@gmail.com,Female,34 Zaki Biam StreetP.O.Box 4521
+C002,Emeka Okafor,Kwara,2347498375359,emeka okafor@gmail.com,Female,187 GRAP.O.Box 789
+C003,Fatima Ibrahim,Borno,2348274345612,fatima ibrahim@gmail.com,Male,12 Unity StreetP.O.Box 3340
+C004,Chinedu Eze,Borno,2348035103915,chinedu eze@hotmail.com,Male,56 Airport RoadP.O.Box 9102
+C005,Grace Adebayo,Imo,2347527977135,grace adebayo@yahoo.com,Male,98 Market RoadP.O.Box 215
+C006,Musa Garba,Anambra,2348553144566,musa garba@yahoo.com,Female,5 Independence StreetP.O.Box 6723
+C007,Blessing Okoro,Katsina,2347776187843,blessing okoro@gmail.com,Male,143 Barracks RoadP.O.Box 5401
+C008,Tunde Akinola,Plateau,2348928032194,tunde akinola@yahoo.com,Female,27 Church StreetP.O.Box 889
+C009,Hauwa Aliyu,Edo,2348642445039,hauwa aliyu@hotmail.com,Female,165 High Level StreetP.O.Box 4021
+C010,David Nwosu,Abia,2348683381083,david nwosu@hotmail.com,Male,8 Wadata StreetP.O.Box 1934
+C011,Funke Adeleke,Yobe,2349020186174,funke adeleke@yahoo.com,Female,72 New Market RoadP.O.Box 7560
+C012,Ibrahim Suleiman,Ekiti,2348091692467,ibrahim suleiman@yahoo.com,Male,41 School RoadP.O.Box 321
+C013,Chioma Nnaji,Adamawa,2348881696341,chioma nnaji@yahoo.com,Female,199 Government House RoadP.O.Box 4888
+C014,Oluwaseun Adeyemi,Oyo,2348924936655,oluwaseun adeyemi@gmail.com,Female,23 Old Bridge StreetP.O.Box 6045
+C015,Yusuf Abdullahi,Plateau,2349063611042,yusuf abdullahi@gmail.com,Female,110 Mission RoadP.O.Box 177
+C016,Ngozi Okonkwo,Gombe,2347308416732,ngozi okonkwo@hotmail.com,Male,3 Avenue 1P.O.Box 8290
+C017,Samuel Ajayi,Ekiti,2348650066509,samuel ajayi@yahoo.com,Male,88 Bank RoadP.O.Box 556
+C018,Zainab Mohammed,Niger,2347389398753,zainab mohammed@gmail.com,Male,54 Freedom StreetP.O.Box 3912
+C019,Peter Obi,Akwa Ibom,2348928374094,peter obi@gmail.com,Male,19 Station StreetP.O.Box 7234
+C020,Kemi Lawal,Oyo,2348385082214,kemi lawal@gmail.com,Male,76 Close 1P.O.Box 102
+C021,Daniel Musa,Delta,2349046195851,daniel musa@hotmail.com,Male,135 Peace StreetP.O.Box 6487
+C022,Amarachi Ndukwe,Borno,2348015760871,amarachi ndukwe@gmail.com,Male,9 Commercial StreetP.O.Box 2831
+C023,Abdul Rahman,Imo,2348224335108,abdul rahman@gmail.com,Male,167 Victory RoadP.O.Box 5199
+C024,Precious Onyeka,Imo,2347446595617,precious onyeka@hotmail.com,Female,42 Roundabout StreetP.O.Box 900
+C025,Victor Ike,Kwara,2347972886946,victor ike@hotmail.com,Female,81 Industrial RoadP.O.Box 3771
+C026,Amina Bello,Plateau,2348596846165,amina bello@gmail.com,Female,16 Liberty RoadP.O.Box 6842
+C027,Joshua Okoye,Taraba,2348313100879,joshua okoye@gmail.com,Female,104 George Akume WayP.O.Box 1456
+C028,Hadiza Usman,Nasarawa,2347548406913,hadiza usman@yahoo.com,Female,6 Crescent 2P.O.Box 8109
+C029,Michael Adewole,Zamfara,2349100445270,michael adewole@gmail.com,Female,59 Residential StreetP.O.Box 237
+C030,Sarah Chukwu,Oyo,2348500531825,sarah chukwu@yahoo.com,Male,121 Water StreetP.O.Box 4950
+C031,Ahmed Kabiru,Kwara,2347708109508,ahmed kabiru@hotmail.com,Female,14 Development RoadP.O.Box 621
+C032,Janet Ogunleye,Katsina,2347550783752,janet ogunleye@gmail.com,Male,90 Akawe Torkula StreetP.O.Box 7388
+C033,Emmanuel Dike,Sokoto,2348918674088,emmanuel dike@hotmail.com,Female,31 Progress StreetP.O.Box 1504
+C034,Mariam Hassan,Ondo,2348544361217,mariam hassan@hotmail.com,Male,173 Federal RoadP.O.Box 8620
+C035,Segun Fashola,Ebonyi,2348328793133,segun fashola@hotmail.com,Male,7 Layout RoadP.O.Box 333
+C036,Elizabeth Udo,Nasarawa,2347643913599,elizabeth udo@yahoo.com,Female,46 Bypass RoadP.O.Box 5971
+C037,Abubakar Musa,Bauchi,2347372062745,abubakar musa@gmail.com,Male,158 Hospital RoadP.O.Box 284
+C038,Rita Ezeani,Imo,2347063661154,rita ezeani@hotmail.com,Female,22 Central StreetP.O.Box 4190
+C039,Isaac Thomas,Imo,2348812914751,isaac thomas@hotmail.com,Male,69 Estate RoadP.O.Box 7025
+C040,Bola Adegoke,Cross River,2348317722593,bola adegoke@yahoo.com,Female,2 Close 2P.O.Box 111
+C041,Yakubu Sani,Yobe,2348085131801,yakubu sani@hotmail.com,Male,115 Bridge StreetP.O.Box 5368
+C042,Gloria Akpan,Delta,2348193296503,gloria akpan@gmail.com,Male,38 Ankpa RoadP.O.Box 947
+C043,Sadiq Umar,Osun,2349157140143,sadiq umar@hotmail.com,Female,182 Railway StreetP.O.Box 2603
+C044,Mercy Johnson,Rivers,2347650314257,mercy johnson@yahoo.com,Male,11 Low Cost RoadP.O.Box 6789
+C045,Felix Olatunji,Ondo,2347519163065,felix olatunji@hotmail.com,Female,64 Modern Market StreetP.O.Box 340
+C046,Halima Yusuf,Ogun,2347492419003,halima yusuf@hotmail.com,Male,127 Avenue 2P.O.Box 7154
+C047,Andrew Ojo,Adamawa,2348520086063,andrew ojo@hotmail.com,Male,18 Bauchi StreetP.O.Box 892
+C048,Deborah Nwankwo,Gombe,2347802814068,deborah nwankwo@gmail.com,Male,93 New GRAP.O.Box 4067
+C049,Omar Faruk,Katsina,2349107999039,omar faruk@yahoo.com,Female,29 Old GRAP.O.Box 5821
+C050,Joy Adewale,Rivers,2348604339356,joy adewale@yahoo.com,Female,141 Aper Aku Stadium RoadP.O.Box 129
+C051,Godwin Akpabio,Abia,2349050059740,godwin akpabio@yahoo.com,Female,4 Crescent 1P.O.Box 7530
+C052,Fadila Ahmed,Oyo,2348443401924,fadila ahmed@hotmail.com,Male,85 North BankP.O.Box 468
+C053,Christopher Oka,Delta,2348639504731,christopher oka@gmail.com,Female,32 Wurukum Market RoadP.O.Box 3917
+C054,Bilkisu Adamu,Imo,2347647292240,bilkisu adamu@yahoo.com,Female,156 Avenue 3P.O.Box 6402
+C055,Tochukwu Ekwu,Ogun,2347035519980,tochukwu ekwu@gmail.com,Male,21 Airport RoadP.O.Box 255
+C056,Adebisi Cole,Benue,2347586049147,adebisi cole@hotmail.com,Male,77 Unity StreetP.O.Box 5083
+C057,Nasir Idris,Rivers,2347011893368,nasir idris@yahoo.com,Female,140 Commercial StreetP.O.Box 1790
+C058,Vivian Obi,Adamawa,2348465515843,vivian obi@hotmail.com,Male,13 Church StreetP.O.Box 8246
+C059,Adamu Gambo,Delta,2347461837214,adamu gambo@gmail.com,Male,96 School RoadP.O.Box 613
+C060,Chinwe Okeke,Edo,2348985992986,chinwe okeke@gmail.com,Male,8 Development RoadP.O.Box 3974
+C061,Oladapo Williams,Ogun,2348349046014,oladapo williams@hotmail.com,Female,103 Federal RoadP.O.Box 7201
+C062,Ramatu Sule,Adamawa,2347162241726,ramatu sule@gmail.com,Male,35 Independence StreetP.O.Box 948
+C063,Henry Odu,Kogi,2347817003126,henry odu@yahoo.com,Male,168 Market RoadP.O.Box 2815
+C064,Shade Olayinka,Kogi,2348289047074,shade olayinka@gmail.com,Male,26 Progress StreetP.O.Box 5399
+C065,Bashir Dogo,Niger,2348007125104,bashir dogo@yahoo.com,Male,112 Zaki Biam StreetP.O.Box 162
+C066,Chika Umeh,Niger,2348918770419,chika umeh@yahoo.com,Female,5 Industrial RoadP.O.Box 4857
+C067,Ayoola Martins,Sokoto,2348491156360,ayoola martins@gmail.com,Male,84 Victory RoadP.O.Box 7032
+C068,Rukayat Bello,Enugu,2347358391992,rukayat bello@gmail.com,Male,17 Liberty RoadP.O.Box 336
+C069,Patrick Emenike,Borno,2348968348331,patrick emenike@yahoo.com,Female,129 Bank RoadP.O.Box 5910
+C070,Zubaida Ali,Zamfara,2348184776928,zubaida ali@gmail.com,Male,40 Close 1P.O.Box 824
+C071,Anthony Okpara,Osun,2347063758480,anthony okpara@yahoo.com,Male,174 High Level StreetP.O.Box 2671
+C072,Titilayo Adebisi,Adamawa,2347463507621,titilayo adebisi@yahoo.com,Male,9 GRAP.O.Box 6193
+C073,Mansur Shehu,Bayelsa,2347579491907,mansur shehu@gmail.com,Male,52 Railway StreetP.O.Box 407
+C074,Ijeoma Nwosu,Adamawa,2347940669785,ijeoma nwosu@gmail.com,Female,118 Residential StreetP.O.Box 7485
+C075,Lekan Babatunde,Ekiti,2347505665048,lekan babatunde@hotmail.com,Female,3 Mission RoadP.O.Box 1530
+C076,Zainab Olayemi,Ebonyi,2347764008162,zainab olayemi@hotmail.com,Female,67 Water StreetP.O.Box 862
+C077,Kingsley Agwu,Kwara,2348579255121,kingsley agwu@yahoo.com,Female,133 Bridge StreetP.O.Box 3941
+C078,Maryam Balarabe,Bauchi,2348945683229,maryam balarabe@yahoo.com,Female,24 Avenue 1P.O.Box 5208
+C079,Oscar Nduka,Plateau,2347060302399,oscar nduka@gmail.com,Female,99 Barracks RoadP.O.Box 287
+C080,Esther Akande,Nasarawa,2348241745674,esther akande@yahoo.com,Male,15 Estate RoadP.O.Box 6514
+C081,Abdulaziz Tanko,Kaduna,2348740922777,abdulaziz tanko@gmail.com,Male,107 Government House RoadP.O.Box 930
+C082,Patience Okoye,Rivers,2347908094530,patience okoye@yahoo.com,Female,28 Low Cost RoadP.O.Box 4763
+C083,Ibrahim Lawan,Kebbi,2349116787834,ibrahim lawan@gmail.com,Male,145 Wadata StreetP.O.Box 218
+C084,Cynthia Adegbola,Adamawa,2348632386913,cynthia adegbola@yahoo.com,Male,6 Bypass RoadP.O.Box 5829
+C085,Musa Ahmed,Niger,2348077001994,musa ahmed@hotmail.com,Male,89 Crescent 2P.O.Box 704
+C086,Ogechi Nwaka,Anambra,2347201537249,ogechi nwaka@hotmail.com,Female,19 Modern Market StreetP.O.Box 3891
+C087,Timothy Akin,Rivers,2348019295357,timothy akin@hotmail.com,Female,124 School RoadP.O.Box 5160
+C088,Fatima Suleiman,Ogun,2348885971683,fatima suleiman@yahoo.com,Female,11 Airport RoadP.O.Box 142
+C089,Charles Ugwu,Kogi,2347450566377,charles ugwu@hotmail.com,Female,73 Progress StreetP.O.Box 6735
+C090,Bimbo Adeoye,Ogun,2348937754313,bimbo adeoye@hotmail.com,Female,31 Federal RoadP.O.Box 898
+C091,Aliyu Musa,Nasarawa,2348382106956,aliyu musa@gmail.com,Female,152 Unity StreetP.O.Box 4231
+C092,Dorcas Ekpo,Adamawa,2348381096607,dorcas ekpo@gmail.com,Male,14 Industrial RoadP.O.Box 7590
+C093,Farouk Bello,Borno,2348410758514,farouk bello@gmail.com,Male,66 Church StreetP.O.Box 304
+C094,Tosin Ogunniyi,Ogun,2347729548534,tosin ogunniyi@hotmail.com,Female,101 Close 2P.O.Box 5377
+C095,Chukwudi Nnamdi,Bauchi,2347846619815,chukwudi nnamdi@gmail.com,Female,23 Victory RoadP.O.Box 661
+C096,Aishatu Gidado,Jigawa,2349143254020,aishatu gidado@hotmail.com,Male,86 Liberty RoadP.O.Box 4820
+C097,Oscar Benjamin,Bayelsa,2347354345467,oscar benjamin@gmail.com,Female,5 Central StreetP.O.Box 719
+C098,David Oladele,Kwara,2348063033241,david oladele@gmail.com,Male,130 Zaki Biam StreetP.O.Box 3945
+C099,Peter Simon,Cross River,2347261920340,peter simon@yahoo.com,Female,37 Market RoadP.O.Box 826
+C100,Ajayi Glory,Kano,2348401194555,ajayi glory@hotmail.com,Female,58 Development RoadP.O.Box 5013
